@@ -1,0 +1,23 @@
+[CPUTYPE]
+CpuSerise=907
+
+[PrjFile]
+Count=1
+FILE-0=Project.prj
+ActivePrj=Project.prj
+
+[SubPrj-Project.prj]
+Count=0
+
+[DebState]
+AutoSave=1
+Exec=0
+AutoLoad=1
+
+[DirInfo]
+WSP=F:\CpE 426 Project\Project\
+
+[EditState]
+STATE-1=main.c:12
+Count=1
+

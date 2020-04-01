@@ -1,0 +1,15 @@
+-dt s,d,r,a
+-pl 60
+-pw 132
+-g
+-cwno
+-cpu MB90F387S
+"F:\CpE 426 Project\Project\Debug\ABS\Project.abs"
+-a "F:\CpE 426 Project\Project\Debug\OBJ\_io_prl01.obj"
+-a "F:\CpE 426 Project\Project\Debug\OBJ\_io_prl23.obj"
+-a "F:\CpE 426 Project\Project\Debug\OBJ\_io_tmr.obj"
+-a "F:\CpE 426 Project\Project\Debug\OBJ\_FFMC16.obj"
+-a "F:\CpE 426 Project\Project\Debug\OBJ\main.obj"
+-a "F:\CpE 426 Project\Project\Debug\OBJ\monitor16LX.obj"
+-a "F:\CpE 426 Project\Project\Debug\OBJ\start905s.obj"
+

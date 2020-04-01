@@ -1,0 +1,29 @@
+-g
+-AL 2
+-ra _INRAM01=0x000100/0x0008FF
+-ro _INROM01=0xFF0000/0xFFFFFF
+-check_rora
+-check_locate
+-rg 0
+-m "F:\CpE 426 Project\Project\Debug\LST\Project.mp1"
+-pl 60
+-pw 132
+-alin "F:\CpE 426 Project\Project\Debug\LST"
+-alout "F:\CpE 426 Project\Project\Debug\LST"
+-Xals
+-Xalr
+-na
+-w 1
+-cwno
+-a
+-cpu MB90F387S
+-o "F:\CpE 426 Project\Project\Debug\ABS\Project.abs"
+
+"F:\CpE 426 Project\Project\Debug\OBJ\_io_prl01.obj"
+"F:\CpE 426 Project\Project\Debug\OBJ\_io_prl23.obj"
+"F:\CpE 426 Project\Project\Debug\OBJ\_io_tmr.obj"
+"F:\CpE 426 Project\Project\Debug\OBJ\_FFMC16.obj"
+"F:\CpE 426 Project\Project\Debug\OBJ\main.obj"
+"F:\CpE 426 Project\Project\Debug\OBJ\monitor16LX.obj"
+"F:\CpE 426 Project\Project\Debug\OBJ\start905s.obj"
+
